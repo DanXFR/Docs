@@ -1,0 +1,8 @@
+;
+; Happy hacking, john - Emacs ♥ you!
+
+Inhalt
+
+Kryptographie ist ein hochspannendes Thema welches leider in der Praxis oft missverstanden wird. Selbst viele technisch versierte Leute wie z.B. Entwickler oder Administratoren benutzen immer noch veraltete kryptographische Protokolle oder Algorithmen. Manche Entwickler versuchen sogar für bekannte kryptographische Probleme eigene Lösungen zu entwickeln, welche sich jedoch aufgrund der Komplexität und Fallstricke in den meisten Fällen als unzureichend erweisen.
+
+Es gibt mittlerweile sehr viel Literatur zum diesem Thema; das bekannteste dürfte der Klassiker "Applied Crypto" von Bruce Schneier sein. Die deutschsprachige Literatur ist diesbezüglich leider etwas magerer. Um diese Lücke zu füllen hat der bekannte Krypto-Experte Klaus Schmeh sein Buch "Kryptographie: Verfahren, Protokolle, Infrastrukturen" geschrieben, welches aus Sicht vieler momentan als das vielleicht beste deutschsprachige Buch in diesem Bereich angesehen werden kann. Auf über 900 Seiten gibt der Autor einen detaillierten Überblick über so ziemlich jeden wichtigen Aspekt in diesem Bereich. Die Kapitel sind systematisch aufgebaut; es fängt an
